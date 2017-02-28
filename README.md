@@ -7,3 +7,4 @@
 branch_1:
 1.添加了branch_1  测试这个功能
 2.再改一次，熟悉一下
+3.master添加branch时，最新的master的最后一次修改显示红色，之后branch里的修改都为绿色
